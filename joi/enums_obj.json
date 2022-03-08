@@ -1,0 +1,30 @@
+{
+    "colors": {
+        "values": [
+            {
+                "key": "red",
+                "sortKey": "1"
+            },
+            {
+                "key": "blue",
+                "sortKey": "2"
+            },
+            {
+                "key": "green",
+                "sortKey": "3"
+            }
+        ]
+    },
+    "sizes": {
+        "values": [
+            {
+                "key": "small",
+                "sortKey": "1"
+            },
+            {
+                "key": "big",
+                "sortKey": "2"
+            }
+        ]
+    }
+}

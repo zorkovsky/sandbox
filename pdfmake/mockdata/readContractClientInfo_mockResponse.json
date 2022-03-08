@@ -1,0 +1,86 @@
+{
+    "entityHeader": {
+        "id": "916c5643-e5df-4626-92ff-1353f61ec026",
+        "entityType": "ContractualDocument",
+        "entityCategory": "Query",
+        "definitionVersion": "1.0.0",
+        "technicalState": "Active",
+        "_ts": 1602674770,
+        "_etag": "\"8c0260a9-0000-0d00-0000-5f86e0520000\""
+    },
+    "entityData": {
+        "clientInfo": {
+            "clientType": "Company",
+            "companyBasicInfo": {
+                "companyName": "dig-it-ally s.r.o.",
+                "businessArea": "Činnosti v oblasti informačních technologií",
+                "dataSource": "Merk"
+            },
+            "partyIdentifiers": [
+                {
+                    "elementHeader": {
+                        "id": "fa91b045-db1d-4990-89df-987b42ef56fe",
+                        "definitionVersion": "1.0.0",
+                        "technicalState": "Active"
+                    },
+                    "partyIdentifierType": "Ico",
+                    "partyIdentifierValue": "08641820",
+                    "dataSource": "Merk"
+                },
+                {
+                    "elementHeader": {
+                        "id": "20609625-cf19-4dbf-be69-42c893e06699",
+                        "definitionVersion": "1.0.0",
+                        "technicalState": "Active"
+                    },
+                    "partyIdentifierType": "Dic",
+                    "partyIdentifierValue": "CZ08641820",
+                    "dataSource": "Merk"
+                }
+            ],
+            "partyContacts": [
+                {
+                    "elementHeader": {
+                        "id": "eab69fc1-1b49-43e9-b62f-451184b1d95f",
+                        "definitionVersion": "1.0.0",
+                        "technicalState": "Active"
+                    },
+                    "contactType": "Address",
+                    "contactSubtype": "HeadquarterAddress",
+                    "contactStatus": "Unverified",
+                    "dataSource": "Merk",
+                    "addressDetail": {
+                        "street": "V zářezu",
+                        "streetNo": "4",
+                        "houseNo": "902",
+                        "cityPart": "Jinonice",
+                        "city": "Praha",
+                        "higherAdminUnit": "Hlavní město Praha",
+                        "country": "CZE",
+                        "zipCode": "15800"
+                    }
+                },
+                {
+                    "elementHeader": {
+                        "id": "43f381f3-b3f6-4556-8865-73f9edbaf528",
+                        "definitionVersion": "1.0.0",
+                        "technicalState": "Active"
+                    },
+                    "contactStatus": "Unverified",
+                    "dataSource": "Client",
+                    "contactType": "Address",
+                    "contactSubtype": "ContactAddress",
+                    "addressDetail": {
+                        "street": "Marček",
+                        "streetNo": "83",
+                        "cityPart": "Svederník",
+                        "city": "Svederník",
+                        "country": "SVK",
+                        "zipCode": "01332"
+                    }
+                }
+            ]
+        },
+        "businessState": "PreparationByClient"
+    }
+}

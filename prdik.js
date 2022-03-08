@@ -11,8 +11,8 @@ var totentext = ('PRDOL SOM SI '+sum.toLocaleString('en-US')+' KRAT. ACH JAJ');
 
 var cislo = 1;
 
-console.log(e.toLowerCase());
+//console.log(e.toLowerCase());
 
-console.log(totentext.toLowerCase());
-console.log();
+//console.log(totentext.toLowerCase());
+//console.log();
 console.log(s+sum+b+a);

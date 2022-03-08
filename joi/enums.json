@@ -1,0 +1,41 @@
+[
+    {
+        "id": "colors",
+        "values": [
+            {
+                "key": "red",
+                "sortKey": "1"
+            },
+            {
+                "key": "blue",
+                "sortKey": "2"
+            },
+            {
+                "key": "green",
+                "sortKey": "3"
+            },
+            {
+                "key": "orange",
+                "sortKey": "4"
+            },
+            {
+                "key": "dark burgundy",
+                "sortKey": "999"
+            }
+
+        ]
+    },
+    {
+        "id": "sizes",
+        "values": [
+            {
+                "key": "small",
+                "sortKey": "1"
+            },
+            {
+                "key": "big",
+                "sortKey": "2"
+            }
+        ]
+    }
+]

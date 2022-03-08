@@ -1,0 +1,16 @@
+{
+  "name": "swagger",
+  "scripts": {
+    "gen-api": "node -r esm ./generateAPIdoc.js",
+    "debug-gen-api": "node -r esm --inspect ./generateAPIdoc.js"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "json2yaml": "^1.1.0"
+  },
+  "dependencies": {
+    "esm": "^3.2.25",
+    "joi": "^17.2.1",
+    "joi-to-swagger": "^5.0.1"
+  }
+}

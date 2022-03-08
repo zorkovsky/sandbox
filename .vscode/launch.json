@@ -25,6 +25,12 @@
             "request": "launch",
             "name": "Joi Playground",
             "program": "${workspaceFolder}/joi.js",
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "test",
+            "program": "${workspaceFolder}/sum.js",
         }
     ]
 }
